@@ -1,17 +1,1 @@
 {"TEST-1234-5678-ABCD":{"user":"test","created":"2024-12-18","note":"test"}}
-```
-
-(Alles op 1 regel, geen enters!)
-
-5. Click **"Commit new file"**
-
-### Stap 3: Check Raw URL
-
-Open in browser:
-```
-https://raw.githubusercontent.com/dexah69-beep/osrs-licenses/main/licenses.json
-```
-
-**Moet zien:** 
-```
-{"TEST-1234-5678-ABCD":{"user":"test","created":"2024-12-18","note":"test"}}
