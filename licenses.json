@@ -2,15 +2,15 @@
   "TEST-1234-5678-ABCD": {
     "user": "test",
     "created": "2024-12-18",
-    "note": "Test license for development"
+    "note": "Test license"
   }
 }
 ```
-4. Click **"Commit new file"**
 
-### 2.3 Get Raw URL
-1. Click op `licenses.json` in je repo
-2. Click button **"Raw"** (rechts bovenin)
-3. **Copy de URL** (ziet er zo uit):
+4. Click **"Commit changes"**
+
+### Stap 4: Test de Raw URL
+
+Open in je browser:
 ```
-https://raw.githubusercontent.com/JOUW_USERNAME/osrs-licenses/main/licenses.json
+https://raw.githubusercontent.com/dexah69-beep/osrs-licenses/main/licenses.json
