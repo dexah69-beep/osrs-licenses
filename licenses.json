@@ -5,12 +5,3 @@
     "note": "Test license"
   }
 }
-```
-
-4. Click **"Commit changes"**
-
-### Stap 4: Test de Raw URL
-
-Open in je browser:
-```
-https://raw.githubusercontent.com/dexah69-beep/osrs-licenses/main/licenses.json
