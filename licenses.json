@@ -1,7 +1,1 @@
-{
-  "TEST-1234-5678-ABCD": {
-    "user": "test",
-    "created": "2024-12-18",
-    "note": "test license"
-  }
-}
+{"TEST-1234-5678-ABCD":{"user":"test","created":"2024-12-18","note":"test"}}
